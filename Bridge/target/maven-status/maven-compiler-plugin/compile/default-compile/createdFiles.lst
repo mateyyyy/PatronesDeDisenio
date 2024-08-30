@@ -1,0 +1,6 @@
+com\mycompany\bridgepattern\Device.class
+com\mycompany\bridgepattern\Remote.class
+com\mycompany\bridgepattern\Tv.class
+com\mycompany\bridgepattern\Radio.class
+com\mycompany\bridgepattern\advancedRemote.class
+com\mycompany\bridgepattern\BridgePattern.class
